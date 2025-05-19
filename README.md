@@ -128,9 +128,10 @@ python single_evaluation.py \
 ## Citation 📜  
 If you find this repository useful for your research, please consider citing our paper:  
 ```bibtex
-@article{
+@article{wang2025ldir,
   title={LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations},
-  author={Yile Wang, Zhanyu Shen, Hui Huang},
+  author={Wang, Yile and Shen, Zhanyu and Huang, Hui},
+  journal={arXiv preprint arXiv:2505.10354},
   year={2025}
 }
 ```
