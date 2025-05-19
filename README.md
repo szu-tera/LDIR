@@ -2,15 +2,16 @@
 
 This repository contains the code and pre-trained models for our paper [LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations](https://arxiv.org/abs/2505.10354).
 
-## New 🌟
-[2025/05] Our paper has been accepted to ACL Finding!
-
 **LDIR** ( **L**ow-Dimensional **D**ense **I**nterpretable Text Embeddings with **R**elative Representations) is a novel text embedding method that balances **semantic expressiveness**, **interpretability**, and **computational efficiency**. Unlike traditional dense embeddings (e.g., SimCSE, LLM2Vec) or sparse interpretable methods (e.g., Bag-of-Words, QAEmb-MBQA), LDIR uses **relative representations** to anchor texts, enabling **low-dimensional dense embeddings** while preserving traceable semantics.  
 
 <div align="center">
   <img src="figure/intro.png" width="400"/>
   <br>
 </div>
+
+## New 🌟
+[2025/05/15] Our paper has been accepted to ACL Finding!
+[2025/04/28] We released our paper and code repo. 
 
 ## Key Features ✨
 
