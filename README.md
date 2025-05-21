@@ -43,7 +43,7 @@ This repository contains the code and pre-trained models for our paper [LDIR: Lo
 
 1. **Clone the repository**:  
 ```bash
-git clone https://github.com/yourusername/LDIR.git
+git clone https://github.com/szu-tera/LDIR.git
 cd LDIR
 ```
 
