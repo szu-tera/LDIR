@@ -10,7 +10,7 @@ This repository contains the code and pre-trained models for our paper [LDIR: Lo
 </div>
 
 ## New 🌟
-- [2025/05/15] 🔥 Our paper has been accepted to ACL Finding!
+- [2025/05/15] 🔥 Our paper has been accepted to ACL Findings!
 - [2025/04/28] We released our paper and code repo. 
 
 ## Key Features ✨
@@ -159,4 +159,5 @@ If you find this repository useful for your research, please consider citing our
 
 ## License 📄  
 This project is licensed under the MIT License. 
+
 
